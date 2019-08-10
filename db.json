@@ -96,7 +96,11 @@
             "where": "Downtown Conference Center, New York",
             "when": "Monday to Sunday, 15-22 April",
             "img": "1.jpg",
-            "slug": "the-annual-marketing-conference"
+            "slug": "the-annual-marketing-conference",
+            "speakers":[
+                "Mike Shinoda",
+                "Enrique Martinez"
+            ]
         },
         {
             "name": "The Monthly IT Conference",
@@ -104,7 +108,12 @@
             "where": "London Conference Venue, London",
             "when": "Monday to Wednesday, 12-30 March",
             "img": "2.jpg",
-            "slug": "the-monthly-it-conference"
+            "slug": "the-monthly-it-conference",
+            "speakers":[
+                "Henrik Hansen",
+                "Enrique Martinez",
+                "Brenden Legros"
+            ]
         },
         {
             "name": "Real Social Dynamics World Summit",
@@ -112,7 +121,12 @@
             "where": "Australia Conference Centers, Sydney",
             "when": "Monday to Wednesday, 10-12 December",
             "img": "3.jpg",
-            "slug": "real-social-dynamics-world-summit"
+            "slug": "real-social-dynamics-world-summit",
+            "speakers":[
+                "Mike Shinoda",
+                "Frank Castle",
+                "Felix Kjellberg"
+            ]
         },
         {
             "name": "The Annual Real-estate Conference",
@@ -120,7 +134,13 @@
             "where": "Downtown Conference Center, New York",
             "when": "Monday to Sunday, 1-12 January",
             "img": "4.jpg",
-            "slug": "the-annual-real-estate-conference"
+            "slug": "the-annual-real-estate-conference",
+            "speakers":[
+                "Mike Shinoda",
+                "Enrique Martinez",
+                "Henrik Hansen",
+                "Felix Kjellberg"
+            ]
         }
     ]
 }
