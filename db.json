@@ -40,6 +40,27 @@
             "avatar": "3.jpg",
             "shortDesc": "Excepteur sint occaecat",
             "description": "Voluptatem perferendis sed assumenda voluptatibus. Laudantium molestiae sint. Doloremque odio dolore dolore sit. Quae labore alias ea omnis ex expedita sapiente molestias atque. Optio voluptas et. Aboriosam inventore dolorem inventore nam est esse. Aperiam voluptatem nisi molestias laborum ut. Porro dignissimos eum. Tempore dolores minus unde est voluptatum incidunt ut aperiam. Et dolore blanditiis officiis non quod id possimus. Optio non commodi alias sint culpa sapiente nihil ipsa magnam. Qui eum alias provident omnis incidunt aut. Eius et officia corrupti omnis error vel quia omnis velit. In qui debitis autem aperiam voluptates unde sunt et facilis."
+        },
+        {
+            "name": "Henrik Hansen",
+            "slug": "henrik-hansen",
+            "avatar": "4.jpg",
+            "shortDesc": "sed do eiusmod tempor incididunt",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum consequat nisl vel pretium lectus quam id leo. Faucibus ornare suspendisse sed nisi lacus sed. Diam vel quam elementum pulvinar etiam non quam lacus. Cras tincidunt lobortis feugiat vivamus at augue eget. Etiam sit amet nisl purus in. Quisque id diam vel quam elementum. Feugiat pretium nibh ipsum consequat nisl vel. Eget felis eget nunc lobortis mattis aliquam faucibus purus in. Odio aenean sed adipiscing diam. At quis risus sed vulputate odio ut. Pharetra convallis posuere morbi leo urna. Massa sed elementum tempus egestas sed. Elementum tempus egestas sed sed risus pretium quam vulputate. Quisque id diam vel quam elementum pulvinar etiam non."
+        },
+        {
+            "name": "Frank Castle",
+            "slug": "frank-castle",
+            "avatar": "5.jpg",
+            "shortDesc": "consectetur adipiscing elit",
+            "description": "Nibh sit amet commodo nulla facilisi nullam vehicula ipsum a. Mattis aliquam faucibus purus in massa. Quam pellentesque nec nam aliquam sem et tortor. Ultricies leo integer malesuada nunc vel. Proin nibh nisl condimentum id venenatis a. Amet risus nullam eget felis eget nunc lobortis. Ultrices vitae auctor eu augue ut lectus arcu bibendum. Tellus integer feugiat scelerisque varius morbi. Vitae tortor condimentum lacinia quis. Mi quis hendrerit dolor magna eget est lorem. Non enim praesent elementum facilisis leo vel."
+        },
+        {
+            "name": "Enrique Martinez",
+            "slug": "enrique-martinez",
+            "avatar": "6.jpg",
+            "shortDesc": "Lorem ipsum dolor sit amet",
+            "description": "Risus sed vulputate odio ut enim blandit volutpat. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis. Massa tincidunt nunc pulvinar sapien. Felis imperdiet proin fermentum leo vel orci porta. Vitae tortor condimentum lacinia quis vel. Etiam sit amet nisl purus in mollis nunc sed. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Porttitor leo a diam sollicitudin tempor id eu. Amet consectetur adipiscing elit ut aliquam purus sit amet luctus. Elementum sagittis vitae et leo duis ut diam quam. Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Praesent elementum facilisis leo vel fringilla est ullamcorper eget nulla. Mollis aliquam ut porttitor leo. Blandit aliquam etiam erat velit scelerisque in."
         }
     ],
     "sponsors": [
@@ -74,28 +95,32 @@
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
             "when": "Monday to Sunday, 15-22 April",
-            "img": "1.jpg"
+            "img": "1.jpg",
+            "slug": "the-annual-marketing-conference"
         },
         {
             "name": "The Monthly IT Conference",
             "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "where": "London Conference Venue, London",
             "when": "Monday to Wednesday, 12-30 March",
-            "img": "2.jpg"
+            "img": "2.jpg",
+            "slug": "the-monthly-it-conference"
         },
         {
             "name": "Real Social Dynamics World Summit",
             "about": "Real Social Dynamics World Summit features RSD workshops, networking, partying and pickup in the best city in the world to game. During this 7 day event, every RSD Instructor and a select group of guest...",
             "where": "Australia Conference Centers, Sydney",
             "when": "Monday to Wednesday, 10-12 December",
-            "img": "3.jpg"
+            "img": "3.jpg",
+            "slug": "real-social-dynamics-world-summit"
         },
         {
             "name": "The Annual Real-estate Conference",
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
             "when": "Monday to Sunday, 1-12 January",
-            "img": "4.jpg"
+            "img": "4.jpg",
+            "slug": "the-annual-real-estate-conference"
         }
     ]
 }
