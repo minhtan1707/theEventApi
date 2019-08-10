@@ -67,25 +67,29 @@
             "name": "The Annual Marketing Conference",
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
-            "when": "Monday to Wednesday, 10-12 December"
+            "when": "Monday to Wednesday, 10-12 December",
+            "img": "1.jpg"
         },
         {
             "name": "The Monthly IT Conference",
             "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "where": "London Conference Venue, London",
-            "when": "Monday to Wednesday, 10-12 December"
+            "when": "Monday to Wednesday, 10-12 December",
+            "img": "2.jpg"
         },
         {
             "name": "Real Social Dynamics World Summit",
             "about": "Real Social Dynamics World Summit features RSD workshops, networking, partying and pickup in the best city in the world to game. During this 7 day event, every RSD Instructor and a select group of guest...",
             "where": "Australia Conference Centers, Sydney",
-            "when": "Monday to Wednesday, 10-12 December"
+            "when": "Monday to Wednesday, 10-12 December",
+            "img": "3.jpg"
         },
         {
             "name": "The Annual Marketing Conference",
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
-            "when": "Monday to Wednesday, 10-12 December"
+            "when": "Monday to Wednesday, 10-12 December",
+            "img": "4.jpg"
         }
     ]
 }
