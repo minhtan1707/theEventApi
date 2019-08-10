@@ -67,14 +67,14 @@
             "name": "The Annual Marketing Conference",
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
-            "when": "Monday to Wednesday, 10-12 December",
+            "when": "Monday to Sunday, 15-22 April",
             "img": "1.jpg"
         },
         {
             "name": "The Monthly IT Conference",
             "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
             "where": "London Conference Venue, London",
-            "when": "Monday to Wednesday, 10-12 December",
+            "when": "Monday to Wednesday, 12-30 March",
             "img": "2.jpg"
         },
         {
@@ -85,10 +85,10 @@
             "img": "3.jpg"
         },
         {
-            "name": "The Annual Marketing Conference",
+            "name": "The Annual Real-estate Conference",
             "about": "Sed nam ut dolor qui repellendus iusto odit. Possimus inventore eveniet accusamus error amet eius aut accusantium et. Non odit consequatur repudiandae sequi ea odio molestiae. Enim possimus sunt inventore in est ut optio sequi unde.",
             "where": "Downtown Conference Center, New York",
-            "when": "Monday to Wednesday, 10-12 December",
+            "when": "Monday to Sunday, 1-12 January",
             "img": "4.jpg"
         }
     ]
