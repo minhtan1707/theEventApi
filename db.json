@@ -7,12 +7,12 @@
         },
         {
             "name": "Hotel 2",
-            "stars": 3.5,
+            "stars": 5,
             "distance": 200
         },
         {
             "name": "Hotel 3",
-            "stars": 4.2,
+            "stars": 4,
             "distance": 1000
         }
     ],
