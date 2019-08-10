@@ -3,17 +3,20 @@
         {
             "name": "Hotel 1",
             "stars": 3,
-            "distance": 500
+            "distance": 500,
+            "img": "1.jpg"
         },
         {
             "name": "Hotel 2",
             "stars": 5,
-            "distance": 200
+            "distance": 200,
+            "img": "2.jpg"
         },
         {
             "name": "Hotel 3",
             "stars": 4,
-            "distance": 1000
+            "distance": 1000,
+            "img": "3.jpg"
         }
     ],
     "speakers": [
